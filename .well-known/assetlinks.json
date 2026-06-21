@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app", 
-    "package_name": "io.github.sandeepkumar9305835498design.ghostsmesh2.twa",
-    "sha256_cert_fingerprints": ["8E:08:3C:73:AC:F2:9C:6E:E8:18:55:4C:04:07:AC:1E:B3:BA:9A:99:E1:15:ED:74:6E:7E:CD:0A:5"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sandeepkumar9305835498_design.twa",
+        "sha256_cert_fingerprints": ["D9:86:E9:8F:D3:FD:8C:B3:44:E3:C3:43:3B:1E:C6:18:21:6A:37:1C:B4:E5:04:AE:1F:27:7C:72:1C:09:EE:61"]
+      }
+    }]
